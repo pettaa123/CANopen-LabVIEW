@@ -19,9 +19,9 @@
 		<Item Name="CANopen Master.lvlib" Type="Library" URL="../CANopen Master.lvlib"/>
 		<Item Name="canopen.lvlib" Type="Library" URL="../canopen.lvlib"/>
 		<Item Name="PCAN.lvclass" Type="LVClass" URL="../../HAL/HAL/Devices/CAN Interfaces/PCAN/PCAN.lvclass"/>
-		<Item Name="Service Data Object.lvclass" Type="LVClass" URL="../Service Data Object/Service Data Object.lvclass"/>
 		<Item Name="testCANopen.vi" Type="VI" URL="../testCANopen.vi"/>
 		<Item Name="Tick Count.vi" Type="VI" URL="../Heartbeat/Tick Count.vi"/>
+		<Item Name="Time Stamp.lvclass" Type="LVClass" URL="../../HAL/HAL/Time Stamp/Time Stamp.lvclass"/>
 		<Item Name="Untitled 2.vi" Type="VI" URL="../Untitled 2.vi"/>
 		<Item Name="Untitled3.vi" Type="VI" URL="../CANopen/Untitled3.vi"/>
 		<Item Name="Untitled4.vi" Type="VI" URL="../CANopen/Untitled4.vi"/>
@@ -155,7 +155,6 @@
 			<Item Name="ICAN.lvclass" Type="LVClass" URL="../../HAL/HAL/Protocols/ICAN/ICAN.lvclass"/>
 			<Item Name="ISeries Actor.lvlib" Type="Library" URL="../../HAL/MAL/Series/ISeries Actor/ISeries Actor.lvlib"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
-			<Item Name="Msg-Type.ctl" Type="VI" URL="../CANopen 2/Msg-Type.ctl"/>
 			<Item Name="PCANBasic.dll" Type="Document" URL="PCANBasic.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -167,7 +166,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="TickCount.dll" Type="Document" URL="../TickCount/TickCount.dll"/>
-			<Item Name="Time Stamp.lvclass" Type="LVClass" URL="../../HAL/HAL/Time Stamp/Time Stamp.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
