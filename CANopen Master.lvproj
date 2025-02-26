@@ -18,7 +18,7 @@
 			<Item Name="Home.lvlib" Type="Library" URL="../Example/Home/Home.lvlib"/>
 			<Item Name="Interactor.lvlib" Type="Library" URL="../Interactor/Interactor.lvlib"/>
 			<Item Name="Launcher.vi" Type="VI" URL="../Example/Launcher.vi"/>
-			<Item Name="Object Dictionary.lvlib" Type="Library" URL="../Object Dictionary/Object Dictionary.lvlib"/>
+			<Item Name="Object Dictionary UI.lvlib" Type="Library" URL="../Object Dictionary/Object Dictionary UI.lvlib"/>
 		</Item>
 		<Item Name="CANopen Master.lvlib" Type="Library" URL="../CANopen Master.lvlib"/>
 		<Item Name="EDS.lvlib" Type="Library" URL="../../EDS-File-Viewer/Core/EDS.lvlib"/>

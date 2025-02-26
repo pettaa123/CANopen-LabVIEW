@@ -6,7 +6,9 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="CAN Adapter Connected Msg.lvclass" Type="LVClass" URL="../../Home Messages/CAN Adapter Connected Msg/CAN Adapter Connected Msg.lvclass"/>
+		<Item Name="EDS File Loaded Msg.lvclass" Type="LVClass" URL="../../Home Messages/EDS File Loaded Msg/EDS File Loaded Msg.lvclass"/>
 		<Item Name="Populate Nodes List Msg.lvclass" Type="LVClass" URL="../../Home Messages/Populate Nodes List Msg/Populate Nodes List Msg.lvclass"/>
+		<Item Name="Slave Node-ID Selected Msg.lvclass" Type="LVClass" URL="../../Home Messages/Slave Node-ID Selected Msg/Slave Node-ID Selected Msg.lvclass"/>
 	</Item>
 	<Item Name="Home.lvclass" Type="LVClass" URL="../Home.lvclass"/>
 </Library>

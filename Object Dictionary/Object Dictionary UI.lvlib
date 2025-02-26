@@ -4,6 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Messages for this Actor" Type="Folder"/>
-	<Item Name="Object Dictionary.lvclass" Type="LVClass" URL="../Object Dictionary.lvclass"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Populate OD Msg.lvclass" Type="LVClass" URL="../../Object Dictionary UI Messages/Populate OD Msg/Populate OD Msg.lvclass"/>
+	</Item>
+	<Item Name="Object Dictionary UI.lvclass" Type="LVClass" URL="../Object Dictionary UI.lvclass"/>
 </Library>
