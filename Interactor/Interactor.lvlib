@@ -10,6 +10,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Connect Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Connect Msg/Connect Msg.lvclass"/>
 		<Item Name="Discover Nodes Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Discover Nodes Msg/Discover Nodes Msg.lvclass"/>
+		<Item Name="Publish Discovered Nodes Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Publish Discovered Nodes Msg/Publish Discovered Nodes Msg.lvclass"/>
 		<Item Name="Set Slave Node-ID Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Set Slave Node-ID Msg/Set Slave Node-ID Msg.lvclass"/>
 		<Item Name="Show Nested Panel Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Show Nested Panel Msg/Show Nested Panel Msg.lvclass"/>
 	</Item>

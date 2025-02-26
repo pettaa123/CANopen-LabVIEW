@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="CAN Adapter Connected Msg.lvclass" Type="LVClass" URL="../../Home Messages/CAN Adapter Connected Msg/CAN Adapter Connected Msg.lvclass"/>
+		<Item Name="Populate Nodes List Msg.lvclass" Type="LVClass" URL="../../Home Messages/Populate Nodes List Msg/Populate Nodes List Msg.lvclass"/>
+	</Item>
 	<Item Name="Home.lvclass" Type="LVClass" URL="../Home.lvclass"/>
 </Library>

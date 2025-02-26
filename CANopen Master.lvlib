@@ -20,6 +20,7 @@
 	<Item Name="types" Type="Folder">
 		<Item Name="FunctionCode.ctl" Type="VI" URL="../CANopen/FunctionCode.ctl"/>
 		<Item Name="Multiplexor.ctl" Type="VI" URL="../CANopen/Multiplexor.ctl"/>
+		<Item Name="Node States.ctl" Type="VI" URL="../CANopen 2/Node States.ctl"/>
 	</Item>
 	<Item Name="CANopen Master.lvclass" Type="LVClass" URL="../CANopen Master/CANopen Master.lvclass"/>
 	<Item Name="Heartbeat.lvclass" Type="LVClass" URL="../Heartbeat/Heartbeat.lvclass"/>
