@@ -26,5 +26,4 @@
 	<Item Name="Network Mangement.lvclass" Type="LVClass" URL="../Network Mangement/Network Mangement.lvclass"/>
 	<Item Name="SDO Manager.lvclass" Type="LVClass" URL="../SDO Manager/SDO Manager.lvclass"/>
 	<Item Name="Service Data Object.lvclass" Type="LVClass" URL="../Service Data Object/Service Data Object.lvclass"/>
-	<Item Name="Tick Count.vi" Type="VI" URL="../Heartbeat/Tick Count.vi"/>
 </Library>
