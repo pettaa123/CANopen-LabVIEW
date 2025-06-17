@@ -5,6 +5,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="errors" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Populate Entry Details Msg.lvclass" Type="LVClass" URL="../../Object Dictionary UI Messages/Populate Entry Details Msg/Populate Entry Details Msg.lvclass"/>
 		<Item Name="Populate OD Msg.lvclass" Type="LVClass" URL="../../Object Dictionary UI Messages/Populate OD Msg/Populate OD Msg.lvclass"/>
 		<Item Name="Set OD Entry Values Msg.lvclass" Type="LVClass" URL="../../Object Dictionary UI Messages/Set OD Entry Values Msg/Set OD Entry Values Msg.lvclass"/>
 	</Item>

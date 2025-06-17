@@ -9,6 +9,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Connect Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Connect Msg/Connect Msg.lvclass"/>
 		<Item Name="Discover Nodes Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Discover Nodes Msg/Discover Nodes Msg.lvclass"/>
+		<Item Name="Download OD Values Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Download OD Values Msg/Download OD Values Msg.lvclass"/>
 		<Item Name="Load EDS Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Load EDS Msg/Load EDS Msg.lvclass"/>
 		<Item Name="Publish Discovered Nodes Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Publish Discovered Nodes Msg/Publish Discovered Nodes Msg.lvclass"/>
 		<Item Name="Request OD Entry Values Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Request OD Entry Values Msg/Request OD Entry Values Msg.lvclass"/>

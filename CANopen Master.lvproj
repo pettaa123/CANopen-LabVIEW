@@ -22,6 +22,7 @@
 			<Item Name="Object Dictionary UI.lvlib" Type="Library" URL="../Example/Object Dictionary UI/Object Dictionary UI.lvlib"/>
 		</Item>
 		<Item Name="CANopen Master.lvlib" Type="Library" URL="../CANopen Master.lvlib"/>
+		<Item Name="Table1.vi" Type="VI" URL="/C/Users/tupp_js/Documents/LabVIEW Data/Table1.vi"/>
 		<Item Name="Untitled4.vi" Type="VI" URL="../CANopen/Untitled4.vi"/>
 		<Item Name="Untitled5.vi" Type="VI" URL="../CANopen/Untitled5.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>

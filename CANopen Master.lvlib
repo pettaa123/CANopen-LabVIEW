@@ -11,6 +11,7 @@
 		<Item Name="CANopen Request Message.lvclass" Type="LVClass" URL="../CANopen Request/CANopen Request Message.lvclass"/>
 		<Item Name="CANopen Response Message.lvclass" Type="LVClass" URL="../CANopen Response/CANopen Response Message.lvclass"/>
 	</Item>
+	<Item Name="errors" Type="Folder"/>
 	<Item Name="Response Compare Strategies" Type="Folder">
 		<Item Name="Initiate Down-Upload Response Comparator.lvclass" Type="LVClass" URL="../Initiate Down-Upload Response Comparator/Initiate Down-Upload Response Comparator.lvclass"/>
 		<Item Name="SDO Response Compare Strategy.lvclass" Type="LVClass" URL="../SDO Response Compare Strategy/SDO Response Compare Strategy.lvclass"/>
