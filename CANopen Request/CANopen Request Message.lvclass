@@ -24,7 +24,7 @@
 	<Item Name="CANopen Request Message.ctl" Type="Class Private Data" URL="CANopen Request Message.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Client Command Specifier.ctl" Type="VI" URL="../../CANopen 2/Client Command Specifier.ctl">
+	<Item Name="Client Command Specifier.ctl" Type="VI" URL="../../CANopen/Client Command Specifier.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%,!!!!!1%$!0%!!!!!!!!!!R2$15ZP='6O)%VB=X2F=CZM&gt;GRJ9B^$15ZP='6O)&amp;*F=86F=X1A476T=W&amp;H:3ZM&gt;G.M98.T(%.M;76O&gt;#"$&lt;WVN97ZE)&amp;.Q:7.J:GFF=CZD&gt;'Q!K5!6!!=92'^X&lt;GRP971A5W6H&lt;76O&gt;#"3:8&amp;V:8.U'5FO;82J982F)%2P&gt;WZM&lt;W&amp;E)&amp;*F=86F=X1837ZJ&gt;'FB&gt;'5A68"M&lt;W&amp;E)&amp;*F=86F=X1768"M&lt;W&amp;E)&amp;.F:WVF&lt;H1A5G6R&gt;76T&gt;!F):7&amp;S&gt;'*F981(65Z,4E^84AZ#&lt;'^D;S"%&lt;X&gt;O&lt;'^B:!!!'%.M;76O&gt;#"$&lt;WVN97ZE)&amp;.Q:7.J:GFF=A!!!1!!!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>

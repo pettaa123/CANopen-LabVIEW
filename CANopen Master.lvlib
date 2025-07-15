@@ -20,11 +20,10 @@
 	<Item Name="types" Type="Folder">
 		<Item Name="FunctionCode.ctl" Type="VI" URL="../CANopen/FunctionCode.ctl"/>
 		<Item Name="Multiplexor.ctl" Type="VI" URL="../CANopen/Multiplexor.ctl"/>
-		<Item Name="Node States.ctl" Type="VI" URL="../CANopen 2/Node States.ctl"/>
+		<Item Name="Node States.ctl" Type="VI" URL="../CANopen/Node States.ctl"/>
 	</Item>
 	<Item Name="CANopen Master.lvclass" Type="LVClass" URL="../CANopen Master/CANopen Master.lvclass"/>
-	<Item Name="Heartbeat.lvclass" Type="LVClass" URL="../Heartbeat/Heartbeat.lvclass"/>
-	<Item Name="Network Mangement.lvclass" Type="LVClass" URL="../Network Mangement/Network Mangement.lvclass"/>
+	<Item Name="Network Mangement.lvclass" Type="LVClass" URL="../Network Management/Network Mangement.lvclass"/>
 	<Item Name="SDO Manager.lvclass" Type="LVClass" URL="../SDO Manager/SDO Manager.lvclass"/>
 	<Item Name="Service Data Object.lvclass" Type="LVClass" URL="../Service Data Object/Service Data Object.lvclass"/>
 </Library>

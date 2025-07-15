@@ -7,12 +7,15 @@
 
 </Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Add Expected Heartbeat Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Add Expected Heartbeat Msg/Add Expected Heartbeat Msg.lvclass"/>
 		<Item Name="Connect Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Connect Msg/Connect Msg.lvclass"/>
 		<Item Name="Discover Nodes Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Discover Nodes Msg/Discover Nodes Msg.lvclass"/>
 		<Item Name="Download OD Values Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Download OD Values Msg/Download OD Values Msg.lvclass"/>
 		<Item Name="Load EDS Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Load EDS Msg/Load EDS Msg.lvclass"/>
 		<Item Name="Publish Discovered Nodes Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Publish Discovered Nodes Msg/Publish Discovered Nodes Msg.lvclass"/>
 		<Item Name="Request OD Entry Values Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Request OD Entry Values Msg/Request OD Entry Values Msg.lvclass"/>
+		<Item Name="Set CANopen Master Node-ID Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Set CANopen Master Node-ID Msg/Set CANopen Master Node-ID Msg.lvclass"/>
+		<Item Name="Set Heartbeat Producer Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Set Heartbeat Producer Msg/Set Heartbeat Producer Msg.lvclass"/>
 		<Item Name="Set Slave Node-ID Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Set Slave Node-ID Msg/Set Slave Node-ID Msg.lvclass"/>
 		<Item Name="Show Nested Panel Msg.lvclass" Type="LVClass" URL="../../Interactor Messages/Show Nested Panel Msg/Show Nested Panel Msg.lvclass"/>
 	</Item>

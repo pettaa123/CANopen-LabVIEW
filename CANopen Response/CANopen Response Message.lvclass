@@ -42,7 +42,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 	</Item>
-	<Item Name="Server Command Specifier.ctl" Type="VI" URL="../../CANopen 2/Server Command Specifier.ctl">
+	<Item Name="Server Command Specifier.ctl" Type="VI" URL="../../CANopen/Server Command Specifier.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%)!!!!!1%!!0%!!!!!!!!!!R2$15ZP='6O)%VB=X2F=CZM&gt;GRJ9C"$15ZP='6O)&amp;*F=X"P&lt;H.F)%VF=X.B:W5O&lt;(:D&lt;'&amp;T=RR4:8*W:8)A1W^N&lt;7&amp;O:#"4='6D;7:J:8)O9X2M!+6!&amp;1!'&amp;V6Q&lt;'^B:#"4:7&gt;N:7ZU)&amp;*F=X"P&lt;H.F'52P&gt;WZM&lt;W&amp;E)&amp;.F:WVF&lt;H1A5G6T='^O=W5937ZJ&gt;'FB&gt;'5A68"M&lt;W&amp;E)&amp;*F=X"P&lt;H.F'EFO;82J982F)%2P&gt;WZM&lt;W&amp;E)&amp;*F=X"P&lt;H.F#5BF98*U9G6B&gt;!Z#&lt;'^D;S"%&lt;X&gt;O&lt;'^B:!!!'&amp;.F=H:F=C"$&lt;WVN97ZE)&amp;.Q:7.J:GFF=A!!!1!!!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
