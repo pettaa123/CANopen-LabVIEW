@@ -23,7 +23,7 @@
 		<Item Name="Node States.ctl" Type="VI" URL="../CANopen/Node States.ctl"/>
 	</Item>
 	<Item Name="CANopen Master.lvclass" Type="LVClass" URL="../CANopen Master/CANopen Master.lvclass"/>
-	<Item Name="Network Mangement.lvclass" Type="LVClass" URL="../Network Management/Network Mangement.lvclass"/>
+	<Item Name="Network Mangement.lvclass" Type="LVClass" URL="../Example/Network Management/Network Mangement.lvclass"/>
 	<Item Name="SDO Manager.lvclass" Type="LVClass" URL="../SDO Manager/SDO Manager.lvclass"/>
 	<Item Name="Service Data Object.lvclass" Type="LVClass" URL="../Service Data Object/Service Data Object.lvclass"/>
 </Library>

@@ -19,7 +19,7 @@
 			<Item Name="Home.lvlib" Type="Library" URL="../Example/Home/Home.lvlib"/>
 			<Item Name="Interactor.lvlib" Type="Library" URL="../Example/Interactor/Interactor.lvlib"/>
 			<Item Name="Launcher.vi" Type="VI" URL="../Example/Launcher.vi"/>
-			<Item Name="Network Management UI.lvlib" Type="Library" URL="../Network Management UI/Network Management UI.lvlib"/>
+			<Item Name="Network Management UI.lvlib" Type="Library" URL="../Example/Network Management UI/Network Management UI.lvlib"/>
 			<Item Name="Object Dictionary UI.lvlib" Type="Library" URL="../Example/Object Dictionary UI/Object Dictionary UI.lvlib"/>
 		</Item>
 		<Item Name="CANopen Master.lvlib" Type="Library" URL="../CANopen Master.lvlib"/>
